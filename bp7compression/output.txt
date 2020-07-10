@@ -1,0 +1,123 @@
+Pure short bundle
+
+# min bundle compressions by name
+xz2 : 132 : 1.81
+snap : 74 : 1.01
+smaz : 80 : 1.10
+raw : 73 : 1.00
+miniz : 78 : 1.07
+libflate_zlib : 98 : 1.34
+libflate_gzip : 110 : 1.51
+libflate_deflate : 92 : 1.26
+bz2 : 130 : 1.78
+brotli : 77 : 1.05
+
+
+
+
+
+Pure large bundle
+
+# max bundle compressions by name
+xz2 : 160 : 1.47
+snap : 98 : 0.90
+smaz : 119 : 1.09
+raw : 109 : 1.00
+miniz : 114 : 1.05
+libflate_zlib : 124 : 1.14
+libflate_gzip : 136 : 1.25
+libflate_deflate : 118 : 1.08
+bz2 : 157 : 1.44
+brotli : 113 : 1.04
+
+
+
+
+
+Pure short lipsum text
+
+# short text compressions by name
+xz2 : 156 : 1.34
+snap : 108 : 0.93
+smaz : 74 : 0.64
+raw : 116 : 1.00
+miniz : 85 : 0.73
+libflate_zlib : 91 : 0.78
+libflate_gzip : 103 : 0.89
+libflate_deflate : 85 : 0.73
+bz2 : 113 : 0.97
+brotli : 93 : 0.80
+
+
+
+
+
+Pure long lipsum text
+
+# long text compressions by name
+xz2 : 5568 : 0.41
+snap : 9086 : 0.66
+smaz : 8846 : 0.65
+raw : 13701 : 1.00
+miniz : 5667 : 0.41
+libflate_zlib : 6405 : 0.47
+libflate_gzip : 6417 : 0.47
+libflate_deflate : 6399 : 0.47
+bz2 : 5203 : 0.38
+brotli : 5298 : 0.39
+
+
+
+
+
+Short text bundle
+
+# text bundle compressions by name
+xz2 : 212 : 1.34
+snap : 160 : 1.01
+smaz : 138 : 0.87
+raw : 158 : 1.00
+miniz : 156 : 0.99
+libflate_zlib : 162 : 1.03
+libflate_gzip : 174 : 1.10
+libflate_deflate : 156 : 0.99
+bz2 : 202 : 1.28
+brotli : 162 : 1.03
+
+
+
+
+
+PNG bundle
+
+# png bundle compressions by name
+xz2 : 20740 : 1.00
+snap : 20685 : 1.00
+smaz : 24882 : 1.20
+raw : 20680 : 1.00
+miniz : 20676 : 1.00
+libflate_zlib : 20687 : 1.00
+libflate_gzip : 20699 : 1.00
+libflate_deflate : 20681 : 1.00
+bz2 : 21112 : 1.02
+brotli : 20655 : 1.00
+
+
+
+
+
+PDF bundle
+
+# pdf bundle compressions by name
+xz2 : 164980 : 0.79
+snap : 195747 : 0.94
+smaz : 243190 : 1.17
+raw : 208224 : 1.00
+miniz : 169936 : 0.82
+libflate_zlib : 173319 : 0.83
+libflate_gzip : 173331 : 0.83
+libflate_deflate : 173313 : 0.83
+bz2 : 170430 : 0.82
+brotli : 163310 : 0.78
+
+
